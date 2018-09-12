@@ -3,17 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to hoinguyen's documentation!
-=====================================
-This is a documentation created by Hoi Nguyen
+Giới thiệu
+===========
+Chào mừng bạn đến với cộng đồng lập trình điều khiển. Tài liệu này dành cho những bạn có đam mê hoặc đang tìm kiếm đam mê của mình trong lĩnh vực lập trình điều khiển nhưng chưa biết bắt đầu từ đâu, học tập như thế nào để trở thành một lập trình viên chuyên nghiệp.
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
+   :caption: Mục lục:
    
-   introduction
-   about
+   pg_introduction
+   pg_basicC
+   pg_about
 
 Indices and tables
 ==================

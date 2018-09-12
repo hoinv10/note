@@ -1,15 +1,16 @@
-Introduction haha!
-==================
+Bạn có nên đọc tài liệu này?
+=============================
+"Nhất nghệ tinh, nhất thân vinh"
 
-This is the quick introduction about Hoi Nguyen, a handsome boy but love guys
+1. Bạn đam mê điều gì?
+----------------------
+Bạn đã bao giờ hỏi...
+2. Trình độ của bạn như thế nào?
+--------------------------------
 
-1.Introduction
---------------
+3. Bạn nên học như thế nào?
+---------------------------
 
-2. Implementing
----------------
-
-dfasfasfsdfa
 
 
 
