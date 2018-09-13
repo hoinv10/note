@@ -35,10 +35,13 @@ dưới đây. Bạn có thể tải tại `đây`_
 .. _DevC++: https://drive.google.com/file/d/0BxQ8G3yNuNNaVHYtU1JGZXJlMXc/view?usp=sharing
 .. _đây: `DevC++`_
 
+Tải file template tại đây:
+
+:download:`download template.cpp <doc/template.cpp>`
+
+
 
 -----------------------------------------------------------
-
-
 
 3. Biến
 --------
@@ -57,9 +60,9 @@ Các kiểu dữ liệu cơ bản cần nhớ:
 +-------------+------------+------------------+
 
 Chú ý:
-1. Kiểu dữ liệu Char
+a. Kiểu dữ liệu Char
 
-2. Kiểu dữ liệu số nguyên
+b. Kiểu dữ liệu số nguyên
 Với số nguyên ta có hai kiểu dữ liệu có dấu và không dấu.
 Dải giá trị của số nguyên phụ thuộc vào kích thước của kiểu dữ liệu.
 Công thức tính dải giá trị (ví dụ đối với kiểu int)
@@ -69,7 +72,10 @@ Công thức tính dải giá trị (ví dụ đối với kiểu int)
 4. Chương trình con
 -------------------
 
-5. Ví dụ
+5. Các câu lệnh cơ bản
+----------------------
+
+6. Ví dụ
 --------
 
 
